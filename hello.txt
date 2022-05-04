@@ -1,0 +1,9 @@
+touch filename.txt << create a new text file
+
+nano filename.txt << open file
+
+the carrot is the control key 
+exit command 
+yes 
+
+cat filename.txt << read contents of file
