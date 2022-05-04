@@ -7,3 +7,10 @@ exit command
 yes 
 
 cat filename.txt << read contents of file
+------------------------------------------
+how to save the new file to github
+-----------------------------------------
+git add filename.txt <<< add
+git commit -m "write message here" <<< commit the file so it can be tracked
+git push <<< push the file to the remote repository
+
